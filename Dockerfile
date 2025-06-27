@@ -1,1 +1,1 @@
-FROM ghcr.io/mattrobenolt/ps-http-sim:latest
+FROM ghcr.io/perejover/ps-http-sim:latest
